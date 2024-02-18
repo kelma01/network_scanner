@@ -1,2 +1,2 @@
 # network_scanner
-Python module that takes a domain as an input and gives the output of IP addresses, DNS Records and ports with their protocols and states.
+This block of code might not be work for the domains that you are going to try for... 
